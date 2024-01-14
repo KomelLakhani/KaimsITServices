@@ -5296,3 +5296,12 @@ html .ui-button.ui-state-disabled:active {
 .cs_product_slider:hover .cs_slider_next {
   opacity: 1;
 }/*# sourceMappingURL=style.css.map */
+
+/*# Custom CSS */
+.textJustified
+{
+    text-align:justify;
+}
+.cs_brand img{
+    width: 100px !important;
+}
