@@ -5305,3 +5305,33 @@ html .ui-button.ui-state-disabled:active {
 .cs_brand img {
     width: 150px !important;
 }
+.verticalmessage {
+    position: fixed;
+    bottom: 55px;
+    right: -71px;
+    background-color: #007cff;
+    transform: rotate(-45deg);
+    z-index: 999;
+}
+.verticalmessage {
+    /*position: fixed;
+    bottom: 3px;
+    right: -62px;
+    background-color: #26448c;
+    transform: rotate(-45deg);
+    z-index: 999;
+    margin: 0px 0 42px;
+    padding: 0px 47px 5px 45px;*/
+    position: fixed;
+    bottom: 3px;
+    background-color: transparent;
+    transform: rotate(0deg);
+    z-index: 999;
+    margin: 0px 0 42px;
+    padding: 0px 100px 0px 0px;
+}
+
+    .verticalmessage h5 {
+        color: white;
+        text-transform: uppercase;
+    }
